@@ -1,0 +1,221 @@
+Beverage_category,Beverage,Beverage_prep,Beverage_size (fl oz),size_name,Calories, Total Fat (g),Trans Fat (g) ,Saturated Fat (g), Sodium (mg), Total Carbohydrates (g) ,Cholesterol (mg), Dietary Fibre (g), Sugars (g), Protein (g) ,Vitamin A (% DV) ,Vitamin C (% DV), Calcium (% DV) ,Iron (% DV) ,Caffeine (mg),added_sugars_estimate (g),rating_calories,rating_caffeine,rating_total_fat,rating_added_sugars,rating_cholesterol,count_green,count_amber,count_red,star_rating
+Coffee,Brewed Coffee,Short,8.0,Short,3.0,0.1,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.3,0%,0%,0%,0%,175.0,0.0,green,amber,green,green,green,4,1,0,4
+Coffee,Brewed Coffee,Tall,12.0,Tall,4.0,0.1,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.5,0%,0%,0%,0%,260.0,0.0,green,red,green,green,green,4,0,1,0
+Coffee,Brewed Coffee,Grande,16.0,Grande,5.0,0.1,0.0,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0%,0%,0%,0%,330.0,0.0,green,red,green,green,green,4,0,1,0
+Coffee,Brewed Coffee,Venti,20.0,Venti-Hot,5.0,0.1,0.0,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0%,0%,2%,0%,410.0,0.0,green,red,green,green,green,4,0,1,0
+Classic Espresso Drinks,Caffè Latte,Short Nonfat Milk,8.0,Short,70.0,0.1,0.1,0.0,5.0,75.0,10.0,0.0,9.0,6.0,10%,0%,20%,0%,75.0,0.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Caffè Latte,2% Milk,8.0,Short,100.0,3.5,2.0,0.1,15.0,85.0,10.0,0.0,9.0,6.0,10%,0%,20%,0%,75.0,0.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Caffè Latte,Soymilk,8.0,Short,70.0,2.5,0.4,0.0,0.0,65.0,6.0,1.0,4.0,5.0,6%,0%,20%,8%,75.0,0.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Caffè Latte,Tall Nonfat Milk,12.0,Tall,100.0,0.2,0.2,0.0,5.0,120.0,15.0,0.0,14.0,10.0,15%,0%,30%,0%,75.0,0.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Caffè Latte,2% Milk,12.0,Tall,150.0,6.0,3.0,0.2,25.0,135.0,15.0,0.0,14.0,10.0,15%,0%,30%,0%,75.0,0.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Caffè Latte,Soymilk,12.0,Tall,110.0,4.5,0.5,0.0,0.0,105.0,10.0,1.0,6.0,8.0,10%,0%,30%,15%,75.0,0.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Caffè Latte,Grande Nonfat Milk,16.0,Grande,130.0,0.3,0.2,0.0,5.0,150.0,19.0,0.0,18.0,13.0,20%,0%,40%,0%,150.0,0.0,green,amber,green,green,green,4,1,0,4
+Classic Espresso Drinks,Caffè Latte,2% Milk,16.0,Grande,190.0,7.0,3.5,0.2,30.0,170.0,19.0,0.0,17.0,12.0,20%,2%,40%,0%,150.0,0.0,green,amber,green,green,green,4,1,0,4
+Classic Espresso Drinks,Caffè Latte,Soymilk,16.0,Grande,150.0,5.0,0.5,0.0,0.0,130.0,13.0,1.0,8.0,10.0,15%,0%,40%,15%,150.0,0.0,green,amber,green,green,green,4,1,0,4
+Classic Espresso Drinks,Caffè Latte,Venti Nonfat Milk,20.0,Venti-Hot,170.0,0.4,0.3,0.0,10.0,190.0,25.0,0.0,23.0,16.0,30%,0%,50%,0%,150.0,0.0,green,amber,green,green,green,4,1,0,4
+Classic Espresso Drinks,Caffè Latte,2% Milk,20.0,Venti-Hot,240.0,9.0,4.5,0.3,35.0,220.0,24.0,0.0,22.0,16.0,25%,2%,50%,0%,150.0,0.0,amber,amber,amber,green,green,2,3,0,2
+Classic Espresso Drinks,Caffè Latte,Soymilk,20.0,Venti-Hot,190.0,7.0,1.0,0.0,0.0,170.0,16.0,2.0,11.0,13.0,20%,0%,50%,25%,150.0,0.0,green,amber,green,green,green,4,1,0,4
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),Short Nonfat Milk,8.0,Short,110.0,1.5,1.0,0.0,5.0,60.0,21.0,1.0,17.0,7.0,8%,0%,15%,10%,85.0,5.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),2% Milk,8.0,Short,130.0,4.0,2.0,0.1,10.0,70.0,21.0,1.0,17.0,6.0,8%,0%,15%,10%,85.0,5.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),Soymilk,8.0,Short,110.0,3.5,1.0,0.0,0.0,55.0,19.0,2.0,13.0,6.0,6%,0%,15%,20%,85.0,1.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),Tall Nonfat Milk,12.0,Tall,170.0,2.0,1.0,0.0,5.0,100.0,32.0,1.0,27.0,10.0,15%,0%,25%,20%,95.0,9.0,green,green,green,amber,amber,3,2,0,3
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),2% Milk,12.0,Tall,200.0,6.0,3.5,0.1,20.0,115.0,32.0,1.0,26.0,10.0,15%,0%,25%,20%,95.0,8.0,green,green,green,amber,amber,3,2,0,3
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),Soymilk,12.0,Tall,180.0,5.0,1.5,0.0,0.0,85.0,28.0,2.0,20.0,9.0,10%,0%,25%,30%,95.0,2.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),Grande Nonfat Milk,16.0,Grande,220.0,2.5,1.5,0.0,5.0,125.0,43.0,2.0,34.0,13.0,20%,0%,35%,25%,175.0,10.0,amber,amber,green,amber,amber,1,4,0,1
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),2% Milk,16.0,Grande,260.0,8.0,4.5,0.2,25.0,140.0,42.0,2.0,34.0,13.0,15%,2%,35%,25%,175.0,10.0,amber,amber,amber,amber,amber,0,5,0,0
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),Soymilk,16.0,Grande,230.0,7.0,2.0,0.0,0.0,105.0,37.0,3.0,26.0,11.0,10%,0%,35%,40%,175.0,2.0,amber,amber,green,green,amber,2,3,0,2
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),Venti Nonfat Milk,20.0,Venti-Hot,280.0,3.0,2.0,0.0,10.0,160.0,54.0,2.0,44.0,17.0,25%,0%,45%,30%,180.0,14.0,amber,amber,green,red,amber,1,3,1,0
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),2% Milk,20.0,Venti-Hot,340.0,11.0,6.0,0.2,30.0,180.0,53.0,2.0,43.0,17.0,20%,2%,45%,30%,180.0,13.0,amber,amber,amber,red,amber,0,4,1,0
+Classic Espresso Drinks,Caffè Mocha (Without Whipped Cream),Soymilk,20.0,Venti-Hot,290.0,9.0,2.5,0.0,0.0,140.0,47.0,4.0,33.0,14.0,15%,0%,45%,50%,180.0,3.0,amber,amber,amber,green,amber,1,4,0,1
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),Short Nonfat Milk,8.0,Short,100.0,0.1,0.1,0.0,5.0,70.0,19.0,0.0,18.0,6.0,10%,0%,20%,0%,75.0,6.0,green,green,green,amber,green,4,1,0,4
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),2% Milk,8.0,Short,130.0,3.5,1.5,0.1,15.0,80.0,18.0,0.0,17.0,6.0,10%,0%,20%,0%,75.0,5.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),Soymilk,8.0,Short,110.0,2.5,0.3,0.0,0.0,60.0,16.0,1.0,13.0,5.0,6%,0%,20%,8%,75.0,1.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),Tall Nonfat Milk,12.0,Tall,150.0,0.2,0.1,0.0,5.0,110.0,28.0,0.0,27.0,9.0,15%,0%,30%,0%,75.0,9.0,green,green,green,amber,green,4,1,0,4
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),2% Milk,12.0,Tall,200.0,5.0,2.5,0.2,20.0,125.0,28.0,0.0,27.0,9.0,15%,0%,30%,0%,75.0,9.0,green,green,green,amber,green,4,1,0,4
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),Soymilk,12.0,Tall,160.0,4.0,0.5,0.0,0.0,95.0,23.0,1.0,20.0,7.0,10%,0%,30%,15%,75.0,2.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),Grande Nonfat Milk,16.0,Grande,200.0,0.3,0.2,0.0,5.0,140.0,37.0,0.0,35.0,12.0,20%,0%,35%,0%,150.0,11.0,green,amber,green,red,amber,2,2,1,0
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),2% Milk,16.0,Grande,250.0,6.0,3.5,0.2,25.0,150.0,37.0,0.0,35.0,12.0,20%,2%,35%,0%,150.0,11.0,amber,amber,green,red,amber,1,3,1,0
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),Soymilk,16.0,Grande,210.0,5.0,0.5,0.0,0.0,120.0,31.0,1.0,26.0,9.0,10%,0%,35%,15%,150.0,2.0,amber,amber,green,green,amber,2,3,0,2
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),Venti Nonfat Milk,20.0,Venti-Hot,250.0,0.3,0.2,0.0,10.0,180.0,47.0,0.0,45.0,15.0,25%,0%,50%,0%,150.0,15.0,amber,amber,green,red,amber,1,3,1,0
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),2% Milk,20.0,Venti-Hot,320.0,9.0,4.5,0.3,35.0,200.0,46.0,0.0,44.0,15.0,25%,2%,45%,0%,150.0,14.0,amber,amber,amber,red,amber,0,4,1,0
+Classic Espresso Drinks,Vanilla Latte (Or Other Flavoured Latte),Soymilk,20.0,Venti-Hot,270.0,7.0,1.0,0.0,0.0,160.0,39.0,2.0,33.0,12.0,15%,0%,45%,20%,150.0,3.0,amber,amber,green,green,amber,2,3,0,2
+Classic Espresso Drinks,Caffè Americano,Short,8.0,Short,5.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.4,0%,0%,0%,0%,75.0,0.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Caffè Americano,Tall,12.0,Tall,10.0,0.0,0.0,0.0,0.0,10.0,2.0,0.0,0.0,1.0,0%,0%,2%,0%,150.0,0.0,green,amber,green,green,green,4,1,0,4
+Classic Espresso Drinks,Caffè Americano,Grande,16.0,Grande,15.0,0.0,0.0,0.0,0.0,15.0,3.0,0.0,0.0,1.0,0%,0%,2%,0%,225.0,0.0,green,red,green,green,green,4,0,1,0
+Classic Espresso Drinks,Caffè Americano,Venti,20.0,Venti-Hot,25.0,0.0,0.0,0.0,0.0,15.0,4.0,0.0,0.0,1.0,0%,0%,2%,0%,300.0,0.0,green,red,green,green,green,4,0,1,0
+Classic Espresso Drinks,Cappuccino,Short Nonfat Milk,8.0,Short,50.0,0.1,0.1,0.0,5.0,60.0,8.0,0.0,7.0,5.0,8%,0%,15%,0%,75.0,0.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Cappuccino,2% Milk,8.0,Short,80.0,3.0,1.5,0.1,10.0,70.0,8.0,0.0,7.0,5.0,8%,0%,15%,0%,75.0,0.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Cappuccino,Soymilk,8.0,Short,50.0,1.5,0.2,0.0,0.0,40.0,4.0,0.0,3.0,3.0,4%,0%,10%,6%,75.0,0.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Cappuccino,Tall Nonfat Milk,12.0,Tall,60.0,0.1,0.1,0.0,5.0,70.0,9.0,0.0,8.0,6.0,10%,0%,20%,0%,75.0,0.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Cappuccino,2% Milk,12.0,Tall,90.0,3.5,1.5,0.1,15.0,80.0,9.0,0.0,8.0,6.0,10%,0%,20%,0%,75.0,0.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Cappuccino,Soymilk,12.0,Tall,70.0,3.0,0.4,0.0,0.0,65.0,7.0,1.0,4.0,5.0,6%,0%,20%,8%,75.0,0.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Cappuccino,Grande Nonfat Milk,16.0,Grande,80.0,0.2,0.1,0.0,5.0,90.0,12.0,0.0,10.0,8.0,15%,0%,25%,0%,150.0,0.0,green,amber,green,green,green,4,1,0,4
+Classic Espresso Drinks,Cappuccino,2% Milk,16.0,Grande,120.0,4.0,2.0,0.1,15.0,100.0,12.0,0.0,10.0,8.0,10%,0%,25%,0%,150.0,0.0,green,amber,green,green,green,4,1,0,4
+Classic Espresso Drinks,Cappuccino,Soymilk,16.0,Grande,100.0,3.5,0.4,0.0,0.0,80.0,9.0,1.0,5.0,7.0,8%,0%,25%,10%,150.0,0.0,green,amber,green,green,green,4,1,0,4
+Classic Espresso Drinks,Cappuccino,Venti Nonfat Milk,20.0,Venti-Hot,110.0,0.2,0.2,0.0,5.0,120.0,16.0,0.0,14.0,10.0,20%,0%,30%,0%,150.0,0.0,green,amber,green,green,green,4,1,0,4
+Classic Espresso Drinks,Cappuccino,2% Milk,20.0,Venti-Hot,150.0,6.0,3.0,0.2,25.0,135.0,16.0,0.0,14.0,10.0,15%,0%,30%,0%,150.0,0.0,green,amber,green,green,green,4,1,0,4
+Classic Espresso Drinks,Cappuccino,Soymilk,20.0,Venti-Hot,120.0,4.5,0.5,0.0,0.0,110.0,11.0,1.0,7.0,9.0,10%,0%,35%,15%,150.0,0.0,green,amber,green,green,green,4,1,0,4
+Classic Espresso Drinks,Espresso,Solo,1.0,,5.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.4,0%,0%,0%,0%,75.0,0.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Espresso,Doppio,2.0,,10.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,1.0,0%,0%,0%,0%,150.0,0.0,green,amber,green,green,green,4,1,0,4
+Classic Espresso Drinks,Skinny Latte (Any Flavour),Short Nonfat Milk,8.0,Short,60.0,0.1,0.1,0.0,5.0,80.0,9.0,0.0,8.0,6.0,10%,0%,20%,0%,75.0,0.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Skinny Latte (Any Flavour),Tall Nonfat Milk,12.0,Tall,100.0,0.2,0.1,0.0,5.0,125.0,14.0,0.0,13.0,9.0,15%,0%,30%,0%,75.0,0.0,green,green,green,green,green,5,0,0,5
+Classic Espresso Drinks,Skinny Latte (Any Flavour),Grande Nonfat Milk,16.0,Grande,120.0,0.3,0.2,0.0,5.0,160.0,18.0,0.0,16.0,12.0,20%,0%,35%,0%,150.0,0.0,green,amber,green,green,green,4,1,0,4
+Classic Espresso Drinks,Skinny Latte (Any Flavour),Venti Nonfat Milk,20.0,Venti-Hot,160.0,0.3,0.2,0.0,10.0,200.0,24.0,0.0,21.0,15.0,25%,0%,50%,0%,150.0,0.0,green,amber,green,green,green,4,1,0,4
+Signature Espresso Drinks,Caramel Macchiato,Short Nonfat Milk,8.0,Short,100.0,1.0,0.5,0.0,5.0,70.0,17.0,0.0,15.0,6.0,10%,0%,15%,0%,75.0,3.0,green,green,green,green,green,5,0,0,5
+Signature Espresso Drinks,Caramel Macchiato,2% Milk,8.0,Short,120.0,4.0,2.0,0.1,15.0,80.0,16.0,0.0,15.0,5.0,10%,0%,15%,0%,75.0,3.0,green,green,green,green,green,5,0,0,5
+Signature Espresso Drinks,Caramel Macchiato,Soymilk,8.0,Short,100.0,3.0,1.0,0.0,0.0,60.0,14.0,1.0,11.0,4.0,6%,0%,15%,8%,75.0,0.0,green,green,green,green,green,5,0,0,5
+Signature Espresso Drinks,Caramel Macchiato,Tall Nonfat Milk,12.0,Tall,140.0,1.0,0.5,0.0,5.0,105.0,25.0,0.0,24.0,8.0,15%,0%,25%,0%,75.0,6.0,green,green,green,amber,green,4,1,0,4
+Signature Espresso Drinks,Caramel Macchiato,2% Milk,12.0,Tall,180.0,5.0,3.0,0.1,20.0,115.0,25.0,0.0,23.0,8.0,15%,0%,25%,0%,75.0,5.0,green,green,green,green,green,5,0,0,5
+Signature Espresso Drinks,Caramel Macchiato,Soymilk,12.0,Tall,150.0,4.5,1.0,0.0,0.0,90.0,21.0,1.0,17.0,7.0,10%,0%,25%,10%,75.0,0.0,green,green,green,green,green,5,0,0,5
+Signature Espresso Drinks,Caramel Macchiato,Grande Nonfat Milk,16.0,Grande,190.0,1.0,1.0,0.0,10.0,130.0,35.0,0.0,32.0,11.0,20%,0%,35%,0%,150.0,8.0,green,amber,green,amber,amber,2,3,0,2
+Signature Espresso Drinks,Caramel Macchiato,2% Milk,16.0,Grande,240.0,7.0,3.5,0.2,25.0,150.0,34.0,0.0,32.0,10.0,15%,2%,30%,0%,150.0,8.0,amber,amber,green,amber,amber,1,4,0,1
+Signature Espresso Drinks,Caramel Macchiato,Soymilk,16.0,Grande,200.0,5.0,1.0,0.0,5.0,115.0,29.0,1.0,24.0,9.0,10%,0%,35%,15%,150.0,0.0,green,amber,green,green,green,4,1,0,4
+Signature Espresso Drinks,Caramel Macchiato,Venti Nonfat Milk,20.0,Venti-Hot,240.0,1.0,1.0,0.0,10.0,170.0,43.0,0.0,41.0,13.0,25%,0%,40%,0%,150.0,11.0,amber,amber,green,red,amber,1,3,1,0
+Signature Espresso Drinks,Caramel Macchiato,2% Milk,20.0,Venti-Hot,300.0,8.0,4.5,0.2,35.0,180.0,43.0,0.0,40.0,13.0,20%,2%,40%,0%,150.0,10.0,amber,amber,amber,amber,amber,0,5,0,0
+Signature Espresso Drinks,Caramel Macchiato,Soymilk,20.0,Venti-Hot,250.0,7.0,1.5,0.0,5.0,140.0,36.0,1.0,31.0,11.0,15%,0%,40%,20%,150.0,1.0,amber,amber,green,green,amber,2,3,0,2
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),Short Nonfat Milk,8.0,Short,180.0,3.0,2.0,0.0,5.0,120.0,31.0,0.0,29.0,7.0,10%,0%,25%,0%,75.0,17.0,green,green,green,red,amber,3,1,1,0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),2% Milk,8.0,Short,200.0,6.0,3.5,0.1,15.0,125.0,31.0,0.0,29.0,7.0,8%,2%,25%,0%,75.0,17.0,green,green,green,red,amber,3,1,1,0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),Soymilk,8.0,Short,180.0,5.0,2.5,0.0,0.0,110.0,28.0,1.0,25.0,6.0,6%,0%,25%,8%,75.0,13.0,green,green,green,red,green,4,0,1,0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),Tall Nonfat Milk,12.0,Tall,270.0,4.5,3.5,0.0,5.0,190.0,47.0,0.0,45.0,12.0,15%,2%,35%,0%,75.0,27.0,amber,green,green,red,amber,2,2,1,0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),2% Milk,12.0,Tall,310.0,9.0,6.0,0.1,20.0,200.0,46.0,0.0,44.0,11.0,15%,2%,35%,0%,75.0,26.0,amber,green,amber,red,amber,1,3,1,0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),Soymilk,12.0,Tall,280.0,8.0,3.5,0.0,0.0,170.0,42.0,1.0,39.0,10.0,10%,2%,35%,10%,75.0,21.0,amber,green,amber,red,amber,1,3,1,0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),Grande Nonfat Milk,16.0,Grande,350.0,6.0,4.5,0.0,10.0,240.0,61.0,0.0,58.0,15.0,20%,2%,45%,2%,150.0,34.0,amber,amber,green,red,red,1,2,2,0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),2% Milk,16.0,Grande,400.0,11.0,7.0,0.2,25.0,250.0,61.0,0.0,58.0,15.0,15%,2%,45%,0%,150.0,34.0,amber,amber,amber,red,red,0,3,2,0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),Soymilk,16.0,Grande,370.0,10.0,5.0,0.0,0.0,220.0,56.0,1.0,51.0,13.0,10%,2%,45%,15%,150.0,27.0,amber,amber,amber,red,amber,0,4,1,0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),Venti Nonfat Milk,20.0,Venti-Hot,450.0,7.0,6.0,0.0,10.0,310.0,78.0,0.0,74.0,19.0,25%,2%,60%,2%,150.0,44.0,red,amber,green,red,red,1,1,3,0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),2% Milk,20.0,Venti-Hot,510.0,15.0,9.0,0.2,35.0,330.0,77.0,0.0,74.0,19.0,20%,4%,60%,2%,150.0,44.0,red,amber,amber,red,red,0,2,3,0
+Signature Espresso Drinks,White Chocolate Mocha (Without Whipped Cream),Soymilk,20.0,Venti-Hot,460.0,13.0,6.0,0.0,5.0,290.0,70.0,1.0,64.0,16.0,15%,2%,60%,20%,150.0,34.0,red,amber,amber,red,red,0,2,3,0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),Short Nonfat Milk,8.0,Short,130.0,1.5,1.0,0.0,5.0,70.0,26.0,1.0,23.0,7.0,10%,0%,20%,10%,10.0,11.0,green,green,green,red,green,4,0,1,0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),2% Milk,8.0,Short,150.0,4.5,2.5,0.1,15.0,80.0,26.0,1.0,22.0,7.0,10%,0%,20%,10%,10.0,10.0,green,green,green,amber,green,4,1,0,4
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),Soymilk,8.0,Short,130.0,3.5,1.0,0.0,0.0,60.0,23.0,2.0,18.0,6.0,6%,0%,20%,20%,10.0,6.0,green,green,green,amber,green,4,1,0,4
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),Tall Nonfat Milk,12.0,Tall,190.0,2.0,1.0,0.0,5.0,110.0,37.0,1.0,32.0,11.0,15%,0%,30%,20%,20.0,14.0,green,green,green,red,amber,3,1,1,0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),2% Milk,12.0,Tall,230.0,7.0,3.5,0.2,20.0,120.0,37.0,1.0,32.0,10.0,15%,0%,30%,20%,20.0,14.0,amber,green,green,red,amber,2,2,1,0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),Soymilk,12.0,Tall,200.0,6.0,1.5,0.0,0.0,95.0,32.0,2.0,25.0,9.0,10%,0%,30%,30%,20.0,7.0,green,green,green,amber,amber,3,2,0,3
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),Grande Nonfat Milk,16.0,Grande,240.0,2.5,1.5,0.0,5.0,140.0,48.0,2.0,41.0,14.0,20%,0%,40%,25%,25.0,17.0,amber,green,green,red,amber,2,2,1,0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),2% Milk,16.0,Grande,290.0,9.0,5.0,0.2,25.0,160.0,47.0,2.0,41.0,14.0,20%,2%,40%,25%,25.0,17.0,amber,green,amber,red,amber,1,3,1,0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),Soymilk,16.0,Grande,250.0,7.0,2.0,0.0,0.0,125.0,41.0,3.0,32.0,12.0,15%,0%,40%,40%,25.0,8.0,amber,green,green,amber,amber,2,3,0,2
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),Venti Nonfat Milk,20.0,Venti-Hot,320.0,3.0,2.0,0.0,10.0,180.0,63.0,2.0,55.0,18.0,25%,0%,50%,30%,30.0,25.0,amber,green,green,red,red,2,1,2,0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),2% Milk,20.0,Venti-Hot,380.0,11.0,6.0,0.3,35.0,200.0,63.0,2.0,54.0,17.0,25%,2%,50%,30%,30.0,24.0,amber,green,amber,red,red,1,2,2,0
+Signature Espresso Drinks,Hot Chocolate (Without Whipped Cream),Soymilk,20.0,Venti-Hot,330.0,9.0,2.5,0.0,0.0,160.0,55.0,4.0,44.0,15.0,15%,0%,50%,50%,30.0,14.0,amber,green,amber,red,amber,1,3,1,0
+Signature Espresso Drinks,Caramel Apple Spice (Without Whipped Cream),Short,8.0,Short,140.0,0.0,0.0,0.0,0.0,10.0,35.0,0.0,33.0,0.0,0%,0%,0%,0%,0.0,21.0,green,green,green,red,amber,3,1,1,0
+Signature Espresso Drinks,Caramel Apple Spice (Without Whipped Cream),Tall,12.0,Tall,210.0,0.0,0.0,0.0,0.0,15.0,53.0,0.0,49.0,0.0,0%,0%,0%,0%,0.0,31.0,amber,green,green,red,amber,2,2,1,0
+Signature Espresso Drinks,Caramel Apple Spice (Without Whipped Cream),Grande,16.0,Grande,280.0,0.0,0.0,0.0,0.0,20.0,70.0,0.0,65.0,0.0,0%,0%,0%,0%,0.0,41.0,amber,green,green,red,red,2,1,2,0
+Signature Espresso Drinks,Caramel Apple Spice (Without Whipped Cream),Venti,20.0,Venti-Hot,360.0,0.0,0.0,0.0,0.0,25.0,89.0,0.0,83.0,0.0,0%,0%,0%,0%,0.0,53.0,amber,green,green,red,red,2,1,2,0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,Short Nonfat Milk,8.0,Short,100.0,0.1,0.1,0.0,0.0,50.0,22.0,0.0,21.0,4.0,6%,0%,10%,0%,50.0,9.0,green,green,green,amber,green,4,1,0,4
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,2% Milk,8.0,Short,120.0,2.0,1.0,0.1,10.0,55.0,22.0,0.0,21.0,4.0,6%,0%,10%,0%,50.0,9.0,green,green,green,amber,green,4,1,0,4
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,Soymilk,8.0,Short,110.0,1.5,0.2,0.0,0.0,45.0,20.0,0.0,18.0,3.0,4%,0%,10%,6%,50.0,6.0,green,green,green,amber,green,4,1,0,4
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,Tall Nonfat Milk,12.0,Tall,160.0,0.2,0.1,0.0,5.0,80.0,34.0,0.0,32.0,6.0,10%,0%,20%,2%,70.0,14.0,green,green,green,red,amber,3,1,1,0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,2% Milk,12.0,Tall,190.0,3.5,1.5,0.1,15.0,90.0,34.0,0.0,32.0,6.0,10%,0%,20%,2%,70.0,14.0,green,green,green,red,amber,3,1,1,0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,Soymilk,12.0,Tall,160.0,2.5,0.3,0.0,0.0,70.0,31.0,1.0,28.0,5.0,6%,0%,20%,10%,70.0,10.0,green,green,green,amber,amber,3,2,0,3
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,Grande Nonfat Milk,16.0,Grande,210.0,0.2,0.1,0.0,5.0,105.0,45.0,0.0,43.0,8.0,15%,0%,25%,2%,95.0,19.0,amber,green,green,red,amber,2,2,1,0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,2% Milk,16.0,Grande,240.0,4.5,2.0,0.1,20.0,115.0,45.0,0.0,42.0,8.0,10%,0%,25%,2%,95.0,18.0,amber,green,green,red,amber,2,2,1,0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,Soymilk,16.0,Grande,220.0,3.5,0.4,0.0,0.0,90.0,41.0,1.0,37.0,6.0,8%,0%,25%,10%,95.0,13.0,amber,green,green,red,amber,2,2,1,0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,Venti Nonfat Milk,20.0,Venti-Hot,260.0,0.3,0.2,0.0,5.0,135.0,57.0,0.0,54.0,10.0,15%,0%,35%,2%,120.0,24.0,amber,amber,green,red,amber,1,3,1,0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,2% Milk,20.0,Venti-Hot,310.0,6.0,3.0,0.2,25.0,150.0,56.0,0.0,53.0,10.0,15%,2%,30%,2%,120.0,23.0,amber,amber,green,red,amber,1,3,1,0
+Tazo® Tea Drinks,Tazo® Chai Tea Latte,Soymilk,20.0,Venti-Hot,280.0,4.5,0.5,0.0,0.0,115.0,51.0,1.0,46.0,8.0,10%,0%,30%,15%,120.0,16.0,amber,amber,green,red,amber,1,3,1,0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,Short Nonfat Milk,8.0,Short,130.0,0.2,0.1,0.0,5.0,85.0,26.0,0.0,25.0,7.0,10%,4%,20%,2%,25.0,13.0,green,green,green,red,green,4,0,1,0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,2% Milk,8.0,Short,170.0,4.0,2.0,0.1,15.0,95.0,26.0,0.0,25.0,7.0,10%,6%,20%,2%,25.0,13.0,green,green,green,red,green,4,0,1,0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,Soymilk,8.0,Short,140.0,3.0,0.4,0.0,0.0,70.0,22.0,1.0,20.0,6.0,8%,4%,20%,10%,25.0,8.0,green,green,green,amber,green,4,1,0,4
+Tazo® Tea Drinks,Tazo® Green Tea Latte,Tall Nonfat Milk,12.0,Tall,210.0,0.4,0.2,0.0,5.0,125.0,42.0,1.0,41.0,11.0,20%,10%,35%,4%,55.0,23.0,amber,green,green,red,amber,2,2,1,0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,2% Milk,12.0,Tall,260.0,6.0,3.0,0.2,25.0,140.0,41.0,1.0,40.0,10.0,15%,10%,35%,4%,55.0,22.0,amber,green,green,red,amber,2,2,1,0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,Soymilk,12.0,Tall,230.0,4.5,0.5,0.0,0.0,110.0,36.0,2.0,33.0,9.0,10%,10%,35%,15%,55.0,15.0,amber,green,green,red,amber,2,2,1,0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,Grande Nonfat Milk,16.0,Grande,290.0,0.5,0.2,0.0,10.0,160.0,57.0,1.0,56.0,14.0,25%,15%,45%,4%,80.0,32.0,amber,green,green,red,amber,2,2,1,0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,2% Milk,16.0,Grande,350.0,8.0,4.0,0.2,30.0,180.0,57.0,1.0,55.0,14.0,20%,15%,45%,4%,80.0,31.0,amber,green,amber,red,amber,1,3,1,0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,Soymilk,16.0,Grande,310.0,6.0,1.0,0.0,0.0,140.0,50.0,3.0,46.0,11.0,15%,15%,45%,25%,80.0,22.0,amber,green,green,red,amber,2,2,1,0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,Venti Nonfat Milk,20.0,Venti-Hot,370.0,0.5,0.3,0.0,10.0,200.0,73.0,2.0,71.0,18.0,30%,20%,60%,6%,110.0,41.0,amber,amber,green,red,red,1,2,2,0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,2% Milk,20.0,Venti-Hot,450.0,10.0,5.0,0.3,40.0,230.0,72.0,2.0,71.0,17.0,25%,20%,50%,6%,110.0,41.0,red,amber,amber,red,red,0,2,3,0
+Tazo® Tea Drinks,Tazo® Green Tea Latte,Soymilk,20.0,Venti-Hot,390.0,8.0,1.0,0.0,0.0,180.0,64.0,4.0,58.0,14.0,20%,20%,60%,30%,110.0,28.0,amber,amber,amber,red,red,0,3,2,0
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Short Nonfat Milk,8.0,Short,80.0,0.1,0.1,0.0,0.0,45.0,16.0,0.0,16.0,4.0,6%,0%,10%,0%,0.0,4.0,green,green,green,green,green,5,0,0,5
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),2% Milk,8.0,Short,90.0,2.0,1.0,0.1,10.0,50.0,15.0,0.0,15.0,3.0,6%,0%,10%,0%,0.0,3.0,green,green,green,green,green,5,0,0,5
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Soymilk,8.0,Short,80.0,1.5,0.2,0.0,0.0,40.0,14.0,0.0,13.0,3.0,4%,0%,10%,6%,0.0,1.0,green,green,green,green,green,5,0,0,5
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Tall Nonfat Milk,12.0,Tall,120.0,0.1,0.1,0.0,5.0,65.0,23.0,0.0,23.0,5.0,10%,0%,20%,0%,0.0,5.0,green,green,green,green,green,5,0,0,5
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),2% Milk,12.0,Tall,140.0,3.0,1.5,0.1,15.0,75.0,23.0,0.0,23.0,5.0,8%,0%,15%,0%,0.0,5.0,green,green,green,green,green,5,0,0,5
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Soymilk,12.0,Tall,130.0,2.5,0.3,0.0,0.0,60.0,21.0,1.0,19.0,4.0,6%,0%,20%,8%,0.0,1.0,green,green,green,green,green,5,0,0,5
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Grande Nonfat Milk,16.0,Grande,150.0,0.2,0.1,0.0,5.0,85.0,31.0,0.0,31.0,7.0,15%,0%,25%,0%,0.0,7.0,green,green,green,amber,amber,3,2,0,3
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),2% Milk,16.0,Grande,190.0,4.0,2.0,0.1,15.0,95.0,31.0,0.0,30.0,7.0,10%,0%,25%,0%,0.0,6.0,green,green,green,amber,amber,3,2,0,3
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Soymilk,16.0,Grande,170.0,3.5,0.4,0.0,0.0,80.0,27.0,1.0,25.0,6.0,8%,0%,25%,10%,0.0,1.0,green,green,green,green,green,5,0,0,5
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Venti Nonfat Milk,20.0,Venti-Hot,190.0,0.2,0.1,0.0,5.0,110.0,39.0,0.0,39.0,9.0,15%,0%,30%,0%,0.0,9.0,green,green,green,amber,amber,3,2,0,3
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),2% Milk,20.0,Venti-Hot,230.0,5.0,2.5,0.2,20.0,125.0,38.0,0.0,38.0,9.0,15%,0%,30%,0%,0.0,8.0,amber,green,green,amber,amber,2,3,0,2
+Tazo® Tea Drinks,Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),Soymilk,20.0,Venti-Hot,210.0,4.0,0.5,0.0,0.0,100.0,34.0,1.0,32.0,7.0,10%,0%,30%,15%,0.0,2.0,amber,green,green,green,amber,3,2,0,3
+Shaken Iced Beverages,Iced Brewed Coffee (With Classic Syrup),Tall,12.0,Tall,60.0,0.0,0.0,0.0,0.0,4.0,15.0,0.0,15.0,0.2,0%,0%,0%,0%,120.0,0.0,green,amber,green,green,green,4,1,0,4
+Shaken Iced Beverages,Iced Brewed Coffee (With Classic Syrup),Grande,16.0,Grande,90.0,0.1,0.0,0.0,0.0,5.0,21.0,0.0,21.0,0.3,0%,0%,0%,0%,165.0,0.0,green,amber,green,green,green,4,1,0,4
+Shaken Iced Beverages,Iced Brewed Coffee (With Classic Syrup),Venti,24.0,Venti-Cold,130.0,0.1,0.0,0.0,0.0,5.0,31.0,0.0,31.0,0.4,0%,0%,0%,0%,235.0,0.0,green,red,green,green,amber,3,1,1,0
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),Tall Nonfat Milk,12.0,Tall,80.0,0.1,0.0,0.0,0.0,25.0,18.0,0.0,18.0,2.0,2%,0%,6%,0%,90.0,0.0,green,green,green,green,green,5,0,0,5
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),2% Milk,12.0,Tall,90.0,1.0,0.5,0.0,5.0,25.0,18.0,0.0,18.0,2.0,2%,0%,6%,0.00%,90.0,0.0,green,green,green,green,green,5,0,0,5
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),Soymilk,12.0,Tall,80.0,1.0,0.1,0.0,0.0,20.0,17.0,0.0,17.0,2.0,2%,0%,6%,0%,90.0,0.0,green,green,green,green,green,5,0,0,5
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),Grande Nonfat Milk,16.0,Grande,110.0,0.1,0.0,0.0,0.0,30.0,24.0,0.0,24.0,2.0,4%,0%,8%,2%,90.0,0.0,green,green,green,green,green,5,0,0,5
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),2% Milk,16.0,Grande,120.0,1.5,0.5,0.0,5.0,35.0,24.0,0.0,24.0,2.0,4%,0%,8%,0%,125.0,0.0,green,amber,green,green,green,4,1,0,4
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),Soymilk,16.0,Grande,110.0,1.0,0.1,0.0,0.0,30.0,23.0,0.0,22.0,2.0,2%,0%,8%,0%,125.0,0.0,green,amber,green,green,green,4,1,0,4
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),Venti Nonfat Milk,24.0,Venti-Cold,160.0,0.1,0.1,0.0,0.0,50.0,36.0,0.0,36.0,4.0,6%,0%,10%,4%,125.0,0.0,green,amber,green,green,amber,3,2,0,3
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),2% Milk,24.0,Venti-Cold,180.0,2.0,1.0,0.1,10.0,55.0,36.0,0.0,36.0,4.0,6%,0%,10%,0%,170.0,0.0,green,amber,green,green,amber,3,2,0,3
+Shaken Iced Beverages,Iced Brewed Coffee (With Milk & Classic Syrup),Soymilk,24.0,Venti-Cold,170.0,1.5,0.2,0.0,0.0,45.0,34.0,0.0,33.0,3.0,4%,0%,10%,0%,170.0,0.0,green,amber,green,green,amber,3,2,0,3
+Shaken Iced Beverages,Shaken Iced Tazo® Tea (With Classic Syrup),Tall,12.0,Tall,60.0,0.0,0.0,0.0,0.0,0.0,15.0,0.0,15.0,0.0,0%,0%,0%,6%,170.0,0.0,green,amber,green,green,green,4,1,0,4
+Smoothies,Banana Chocolate Smoothie,2% Milk,16.0,Grande,300.0,5.0,2.5,0.1,15.0,160.0,53.0,7.0,34.0,20.0,8%,15%,20%,20%,15.0,10.0,amber,green,green,amber,amber,2,3,0,2
+Smoothies,Banana Chocolate Smoothie,Soymilk,16.0,Grande,290.0,4.5,1.5,0.0,5.0,150.0,51.0,7.0,31.0,19.0,6%,15%,20%,20%,15.0,7.0,amber,green,green,amber,amber,2,3,0,2
+Smoothies,Orange Mango Banana Smoothie,Grande Nonfat Milk,16.0,Grande,260.0,1.0,0.3,0.0,5.0,120.0,54.0,6.0,37.0,16.0,50%,80%,10%,30%,15.0,13.0,amber,green,green,red,amber,2,2,1,0
+Smoothies,Orange Mango Banana Smoothie,2% Milk,16.0,Grande,270.0,1.5,0.5,0.0,5.0,125.0,53.0,6.0,37.0,16.0,50%,80%,10%,6%,0.0,13.0,amber,green,green,red,amber,2,2,1,0
+Smoothies,Orange Mango Banana Smoothie,Soymilk,16.0,Grande,270.0,1.5,0.4,0.0,5.0,120.0,53.0,6.0,36.0,15.0,50%,80%,10%,6%,0.0,12.0,amber,green,green,red,amber,2,2,1,0
+Smoothies,Strawberry Banana Smoothie,Grande Nonfat Milk,16.0,Grande,290.0,1.0,0.3,0.0,5.0,125.0,58.0,7.0,41.0,16.0,4%,100%,10%,8%,0.0,17.0,amber,green,green,red,amber,2,2,1,0
+Smoothies,Strawberry Banana Smoothie,2% Milk,16.0,Grande,290.0,2.0,1.0,0.0,5.0,125.0,58.0,7.0,41.0,16.0,4%,100%,10%,8%,0.0,17.0,amber,green,green,red,amber,2,2,1,0
+Smoothies,Strawberry Banana Smoothie,Soymilk,16.0,Grande,290.0,2.0,0.4,0.0,5.0,120.0,58.0,8.0,40.0,16.0,2%,100%,10%,8%,0.0,16.0,amber,green,green,red,amber,2,2,1,0
+Frappuccino® Blended Coffee,Coffee,Tall Nonfat Milk,12.0,Tall,160.0,0.1,0.0,0.0,0.0,160.0,36.0,0.0,36.0,3.0,4%,0%,10%,10%,0.0,18.0,green,green,green,red,amber,3,1,1,0
+Frappuccino® Blended Coffee,Coffee,Whole Milk,12.0,Tall,180.0,2.5,1.5,0.1,10.0,160.0,36.0,0.0,36.0,3.0,4%,0%,8%,0%,70.0,18.0,green,green,green,red,amber,3,1,1,0
+Frappuccino® Blended Coffee,Coffee,Soymilk,12.0,Tall,160.0,1.5,0.2,0.0,0.0,150.0,35.0,0.0,34.0,2.0,4%,0%,10%,0%,70.0,16.0,green,green,green,red,amber,3,1,1,0
+Frappuccino® Blended Coffee,Coffee,Grande Nonfat Milk,16.0,Grande,220.0,0.1,0.1,0.0,0.0,210.0,51.0,0.0,50.0,4.0,6%,0%,10%,4%,70.0,26.0,amber,green,green,red,amber,2,2,1,0
+Frappuccino® Blended Coffee,Coffee,Whole Milk,16.0,Grande,240.0,3.0,2.0,0.1,10.0,220.0,50.0,0.0,50.0,3.0,4%,0%,10%,0%,95.0,26.0,amber,green,green,red,amber,2,2,1,0
+Frappuccino® Blended Coffee,Coffee,Soymilk,16.0,Grande,220.0,1.5,0.2,0.0,0.0,210.0,49.0,0.0,47.0,3.0,4%,0%,10%,0%,95.0,23.0,amber,green,green,red,amber,2,2,1,0
+Frappuccino® Blended Coffee,Coffee,Venti Nonfat Milk,24.0,Venti-Cold,310.0,0.1,0.1,0.0,5.0,300.0,70.0,0.0,69.0,6.0,10%,0%,20%,6%,95.0,33.0,amber,green,green,red,red,2,1,2,0
+Frappuccino® Blended Coffee,Coffee,Whole Milk,24.0,Venti-Cold,350.0,5.0,3.0,0.2,15.0,300.0,70.0,0.0,69.0,5.0,8%,0%,15%,2%,130.0,33.0,amber,amber,green,red,red,1,2,2,0
+Frappuccino® Blended Coffee,Coffee,Soymilk,24.0,Venti-Cold,310.0,2.5,0.3,0.0,0.0,300.0,68.0,1.0,66.0,5.0,6%,0%,20%,2%,130.0,30.0,amber,amber,green,red,red,1,2,2,0
+Frappuccino® Blended Coffee,Mocha (Without Whipped Cream),Tall Nonfat Milk,12.0,Tall,180.0,0.5,0.4,0.0,0.0,150.0,42.0,1.0,40.0,3.0,4%,0%,10%,8%,130.0,22.0,green,amber,green,red,amber,2,2,1,0
+Frappuccino® Blended Coffee,Mocha (Without Whipped Cream),Whole Milk,12.0,Tall,200.0,3.0,2.0,0.1,10.0,160.0,42.0,1.0,40.0,3.0,4%,0%,8%,6%,70.0,22.0,green,green,green,red,amber,3,1,1,0
+Frappuccino® Blended Coffee,Mocha (Without Whipped Cream),Soymilk,12.0,Tall,180.0,2.0,0.5,0.0,0.0,150.0,40.0,1.0,38.0,3.0,4%,0%,10%,10%,70.0,20.0,green,green,green,red,amber,3,1,1,0
+Frappuccino® Blended Coffee,Mocha (Without Whipped Cream),Grande Nonfat Milk,16.0,Grande,260.0,1.0,0.5,0.0,0.0,220.0,61.0,1.0,58.0,4.0,6%,0%,10%,8%,110.0,34.0,amber,amber,green,red,red,1,2,2,0
+Frappuccino® Blended Coffee,Mocha (Without Whipped Cream),Whole Milk,16.0,Grande,290.0,4.0,2.5,0.1,10.0,220.0,61.0,1.0,58.0,4.0,4%,0%,10%,8%,110.0,34.0,amber,amber,green,red,red,1,2,2,0
+Frappuccino® Blended Coffee,Mocha (Without Whipped Cream),Soymilk,16.0,Grande,260.0,2.5,0.5,0.0,0.0,220.0,59.0,1.0,55.0,4.0,4%,0%,10%,15%,110.0,31.0,amber,amber,green,red,amber,1,3,1,0
+Frappuccino® Blended Coffee,Mocha (Without Whipped Cream),Venti Nonfat Milk,24.0,Venti-Cold,340.0,1.0,0.5,0.0,5.0,300.0,80.0,1.0,76.0,7.0,10%,0%,15%,10%,140.0,40.0,amber,amber,green,red,red,1,2,2,0
+Frappuccino® Blended Coffee,Mocha (Without Whipped Cream),Whole Milk,24.0,Venti-Cold,390.0,6.0,3.5,0.1,15.0,300.0,80.0,1.0,76.0,6.0,8%,0%,15%,10%,140.0,40.0,amber,amber,green,red,red,1,2,2,0
+Frappuccino® Blended Coffee,Mocha (Without Whipped Cream),Soymilk,24.0,Venti-Cold,350.0,3.0,1.0,0.0,0.0,290.0,78.0,2.0,73.0,6.0,6%,0%,20%,20%,140.0,37.0,amber,amber,green,red,red,1,2,2,0
+Frappuccino® Blended Coffee,Caramel (Without Whipped Cream),Tall Nonfat Milk,12.0,Tall,180.0,0.1,0.0,0.0,0.0,160.0,42.0,0.0,41.0,3.0,4%,0%,10%,0%,70.0,23.0,green,green,green,red,amber,3,1,1,0
+Frappuccino® Blended Coffee,Caramel (Without Whipped Cream),Whole Milk,12.0,Tall,200.0,2.5,1.5,0.1,10.0,160.0,42.0,0.0,41.0,3.0,4%,0%,8%,0%,70.0,23.0,green,green,green,red,amber,3,1,1,0
+Frappuccino® Blended Coffee,Caramel (Without Whipped Cream),Soymilk,12.0,Tall,180.0,1.5,0.2,0.0,0.0,150.0,40.0,0.0,39.0,2.0,4%,0%,10%,4%,70.0,21.0,green,green,green,red,amber,3,1,1,0
+Frappuccino® Blended Coffee,Caramel (Without Whipped Cream),Grande Nonfat Milk,16.0,Grande,280.0,0.1,0.1,0.0,0.0,220.0,60.0,0.0,59.0,4.0,6%,0%,10%,0%,100.0,35.0,amber,green,green,red,amber,2,2,1,0
+Frappuccino® Blended Coffee,Caramel (Without Whipped Cream),Whole Milk,16.0,Grande,280.0,3.5,2.0,0.1,10.0,220.0,60.0,0.0,59.0,3.0,4%,0%,10%,0%,100.0,35.0,amber,green,green,red,amber,2,2,1,0
+Frappuccino® Blended Coffee,Caramel (Without Whipped Cream),Soymilk,16.0,Grande,260.0,1.5,0.2,0.0,0.0,220.0,58.0,0.0,56.0,3.0,4%,0%,10%,6%,100.0,32.0,amber,green,green,red,amber,2,2,1,0
+Frappuccino® Blended Coffee,Caramel (Without Whipped Cream),Venti Nonfat Milk,24.0,Venti-Cold,330.0,0.1,0.1,0.0,5.0,290.0,78.0,0.0,77.0,5.0,10%,0%,15%,2%,130.0,41.0,amber,amber,green,red,red,1,2,2,0
+Frappuccino® Blended Coffee,Caramel (Without Whipped Cream),Whole Milk,24.0,Venti-Cold,370.0,5.0,3.0,0.1,15.0,300.0,78.0,0.0,77.0,5.0,8%,0%,15%,2%,130.0,41.0,amber,amber,green,red,red,1,2,2,0
+Frappuccino® Blended Coffee,Caramel (Without Whipped Cream),Soymilk,24.0,Venti-Cold,340.0,2.5,0.3,0.0,0.0,290.0,75.0,1.0,73.0,5.0,6%,0%,20%,8%,130.0,37.0,amber,amber,green,red,red,1,2,2,0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Tall Nonfat Milk,12.0,Tall,220.0,3.0,2.0,0.0,0.0,170.0,47.0,1.0,44.0,4.0,4%,0%,10%,20%,75.0,26.0,amber,green,green,red,amber,2,2,1,0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Whole Milk,12.0,Tall,240.0,5.0,3.5,0.1,10.0,170.0,47.0,1.0,44.0,4.0,4%,0%,8%,20%,75.0,26.0,amber,green,green,red,amber,2,2,1,0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Soymilk,12.0,Tall,220.0,4.0,2.5,0.0,0.0,170.0,45.0,1.0,42.0,3.0,4%,0%,10%,20%,75.0,24.0,amber,green,green,red,amber,2,2,1,0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Grande Nonfat Milk,16.0,Grande,310.0,4.0,3.0,0.0,0.0,250.0,67.0,2.0,62.0,5.0,6%,0%,10%,25%,110.0,38.0,amber,amber,green,red,red,1,2,2,0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Whole Milk,16.0,Grande,340.0,7.0,5.0,0.1,10.0,250.0,67.0,2.0,62.0,5.0,4%,0%,10%,25%,110.0,38.0,amber,amber,green,red,red,1,2,2,0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Soymilk,16.0,Grande,310.0,6.0,3.5,0.0,0.0,240.0,65.0,2.0,60.0,4.0,4%,0%,10%,30%,110.0,36.0,amber,amber,green,red,red,1,2,2,0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Venti Nonfat Milk,24.0,Venti-Cold,420.0,5.0,4.0,0.0,5.0,340.0,90.0,2.0,84.0,7.0,10%,0%,20%,35%,145.0,48.0,red,amber,green,red,red,1,1,3,0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Whole Milk,24.0,Venti-Cold,460.0,10.0,7.0,0.2,15.0,340.0,90.0,2.0,84.0,7.0,6%,0%,15%,35%,145.0,48.0,red,amber,amber,red,red,0,2,3,0
+Frappuccino® Blended Coffee,Java Chip (Without Whipped Cream),Soymilk,24.0,Venti-Cold,430.0,8.0,4.5,0.0,0.0,330.0,88.0,3.0,80.0,6.0,6%,0%,20%,40%,145.0,44.0,red,amber,amber,red,red,0,2,3,0
+Frappuccino® Light Blended Coffee,Coffee,Tall Nonfat Milk,12.0,Tall,90.0,0.1,0.0,0.0,0.0,160.0,20.0,0.0,19.0,3.0,4%,0%,10%,0%,70.0,1.0,green,green,green,green,green,5,0,0,5
+Frappuccino® Light Blended Coffee,Coffee,Grande Nonfat Milk,16.0,Grande,120.0,0.1,0.1,0.0,0.0,210.0,26.0,0.0,26.0,3.0,6%,0%,10%,0%,95.0,2.0,green,green,green,green,green,5,0,0,5
+Frappuccino® Light Blended Coffee,Coffee,Venti Nonfat Milk,24.0,Venti-Cold,160.0,0.1,0.1,0.0,5.0,270.0,34.0,0.0,33.0,5.0,8%,0%,15%,2%,120.0,0.0,green,amber,green,green,amber,3,2,0,3
+Frappuccino® Light Blended Coffee,Mocha,Tall Nonfat Milk,12.0,Tall,110.0,0.5,0.4,0.0,0.0,150.0,24.0,1.0,23.0,3.0,4%,0%,8%,6%,70.0,5.0,green,green,green,green,green,5,0,0,5
+Frappuccino® Light Blended Coffee,Mocha,Grande Nonfat Milk,16.0,Grande,150.0,1.0,0.5,0.0,0.0,200.0,33.0,1.0,30.0,4.0,6%,0%,10%,8%,95.0,6.0,green,green,green,amber,amber,3,2,0,3
+Frappuccino® Light Blended Coffee,Mocha,Venti Nonfat Milk,24.0,Venti-Cold,210.0,1.0,0.5,0.0,5.0,280.0,46.0,1.0,42.0,6.0,8%,0%,15%,10%,130.0,6.0,amber,amber,green,amber,amber,1,4,0,1
+Frappuccino® Light Blended Coffee,Caramel,Tall Nonfat Milk,12.0,Tall,100.0,0.1,0.0,0.0,0.0,140.0,23.0,0.0,23.0,3.0,4%,0%,8%,0%,65.0,5.0,green,green,green,green,green,5,0,0,5
+Frappuccino® Light Blended Coffee,Caramel,Grande Nonfat Milk,16.0,Grande,150.0,0.1,0.1,0.0,0.0,200.0,33.0,0.0,32.0,3.0,6%,0%,10%,0%,90.0,8.0,green,green,green,amber,amber,3,2,0,3
+Frappuccino® Light Blended Coffee,Caramel,Venti Nonfat Milk,24.0,Venti-Cold,200.0,0.1,0.1,0.0,5.0,270.0,44.0,0.0,43.0,5.0,8%,0%,15%,2%,120.0,7.0,green,amber,green,amber,amber,2,3,0,2
+Frappuccino® Light Blended Coffee,Java Chip,Tall Nonfat Milk,12.0,Tall,150.0,3.0,2.0,0.0,0.0,170.0,30.0,1.0,27.0,4.0,4%,0%,10%,20%,70.0,9.0,green,green,green,amber,green,4,1,0,4
+Frappuccino® Light Blended Coffee,Java Chip,Grande Nonfat Milk,16.0,Grande,220.0,4.0,3.0,0.0,0.0,240.0,43.0,2.0,39.0,5.0,6%,0%,10%,25%,105.0,15.0,amber,amber,green,red,amber,1,3,1,0
+Frappuccino® Light Blended Coffee,Java Chip,Venti Nonfat Milk,24.0,Venti-Cold,290.0,5.0,4.0,0.0,5.0,320.0,58.0,2.0,52.0,7.0,8%,0%,15%,35%,165.0,16.0,amber,amber,green,red,amber,1,3,1,0
+Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Tall Nonfat Milk,12.0,Tall,170.0,0.1,0.1,0.0,0.0,140.0,39.0,0.0,38.0,3.0,6%,6%,10%,2%,0.0,20.0,green,green,green,red,amber,3,1,1,0
+Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Whole Milk,12.0,Tall,190.0,3.0,1.5,0.1,10.0,140.0,38.0,0.0,37.0,3.0,4%,6%,10%,2%,0.0,19.0,green,green,green,red,amber,3,1,1,0
+Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Soymilk,12.0,Tall,170.0,1.5,0.2,0.0,0.0,135.0,37.0,1.0,35.0,3.0,4%,6%,10%,6%,0.0,17.0,green,green,green,red,amber,3,1,1,0
+Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Grande Nonfat Milk,16.0,Grande,230.0,0.2,0.1,0.0,0.0,190.0,53.0,0.0,52.0,4.0,8%,6%,15%,4%,0.0,28.0,amber,green,green,red,amber,2,2,1,0
+Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Whole Milk,16.0,Grande,260.0,4.0,2.0,0.1,10.0,190.0,53.0,0.0,52.0,4.0,6%,6%,15%,4%,0.0,28.0,amber,green,green,red,amber,2,2,1,0
+Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Soymilk,16.0,Grande,240.0,2.0,0.2,0.0,0.0,180.0,51.0,1.0,49.0,3.0,4%,6%,15%,8%,0.0,25.0,amber,green,green,red,amber,2,2,1,0
+Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Venti Nonfat Milk,24.0,Venti-Cold,310.0,0.2,0.1,0.0,5.0,260.0,70.0,0.0,69.0,6.0,10%,8%,20%,4%,0.0,33.0,amber,green,green,red,red,2,1,2,0
+Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Whole Milk,24.0,Venti-Cold,350.0,6.0,3.0,0.2,15.0,260.0,70.0,0.0,68.0,6.0,8%,8%,20%,4%,0.0,32.0,amber,green,green,red,red,2,1,2,0
+Frappuccino® Blended Crème,Strawberries & Crème (Without Whipped Cream),Soymilk,24.0,Venti-Cold,320.0,3.2,0.4,0.0,0.0,250.0,67.0,1.0,64.0,5.0,6%,8%,20%,10%,0.0,28.0,amber,green,green,red,red,2,1,2,0
+Frappuccino® Blended Crème,Vanilla Bean (Without Whipped Cream),Tall Nonfat Milk,12.0,Tall,170.0,0.1,0.1,0.0,0.0,160.0,39.0,0.0,38.0,4.0,6%,0%,10%,0%,0.0,20.0,green,green,green,red,amber,3,1,1,0
+Frappuccino® Blended Crème,Vanilla Bean (Without Whipped Cream),Whole Milk,12.0,Tall,200.0,3.5,2.0,0.1,10.0,160.0,39.0,0.0,38.0,3.0,6%,0%,10%,0%,0.0,20.0,green,green,green,red,amber,3,1,1,0
+Frappuccino® Blended Crème,Vanilla Bean (Without Whipped Cream),Soymilk,12.0,Tall,180.0,1.5,0.2,0.0,0.0,160.0,37.0,1.0,35.0,3.0,4%,0%,10%,6%,0.0,17.0,green,green,green,red,amber,3,1,1,0
+Frappuccino® Blended Crème,Vanilla Bean (Without Whipped Cream),Grande Nonfat Milk,16.0,Grande,240.0,0.1,0.1,0.0,5.0,230.0,56.0,0.0,55.0,5.0,8%,0%,15%,0%,0.0,31.0,amber,green,green,red,amber,2,2,1,0
